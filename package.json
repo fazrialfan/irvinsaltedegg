@@ -1,0 +1,10 @@
+{
+  "name": "irvinsaltedegg",
+  "version": "1.0.0",
+  "description": "Code Challenges",
+  "main": "index.js",
+  "repository": "https://github.com/fazrialfan/irvinsaltedegg.git",
+  "author": "Fazri Alfan Muaz <fazrialfanmuaz@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
